@@ -1,1 +1,122 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    font-family: 'Mukta', sans-serif !important;
+}
+
+@media only screen and (max-width: 1199px) {
+    .desktop{
+        display: none !important;
+    }
+    .flex{
+        display: flex;
+      }
+      .dateborder::before{
+        content: "";
+        position: absolute;
+        z-index: 100;
+        top: 3px;
+        width: 1px !important;
+        height: 45% !important;
+        background: #2da77d;
+        left: 3px !important;
+      }
+      
+  }
+  .br{
+    border-right: 1.5px solid #f4f4f7;
+  }
+  .bl{
+    border-left: 1.5px solid #f4f4f7;
+  }
+  .bb{
+    border-bottom: 1.5px solid #f4f4f7;
+
+  }
+
+  .mt15{
+    margin-top: 15px;
+  }
+  .mn15{
+    margin-bottom: 15px;
+  }
+
+  h3{
+    color: #2da77d !important;
+  }
+
+  .leftB{
+    position: relative;
+  }
+
+  .leftB::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    z-index: 100;
+    top: 19px;
+    width: 0.5px;
+    height: 17%;
+    background: #2da77d;
+  }
+  .flex{
+    display: block;
+  }
+
+  .paymentButton{
+    background-color: #f8f5ff;
+    border-radius: 120px;
+    color: #96f;
+    text-decoration: none;
+    border: none;
+    font-size: 15px;
+    margin-left: -4px;
+  }
+  .mt60{
+    margin-top: 60px !important;
+  }
+
+  .mt35{
+    margin-top: 35px !important;
+  }
+
+  .dateborder{
+    position: relative;
+  }
+
+  .dateborder::before {
+    content: "";
+    position: absolute;
+    z-index: 100;
+    top: 2px;
+    width: 1px;
+    height: 31%;
+    background: #2da77d;
+    left: -12px;
+  }
+
+  .invoiceButton{
+    background-color: #effbf4;
+    border-radius: 120px;
+    color: #15be53;
+    text-decoration: none;
+    border: none;
+    font-size: 15px;
+    margin-left: -4px;
+  }
+
+  .filterBar{
+    background-color: white;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+      }
+          
+
+  .input{
+    margin-top: 18px !important;
+    margin-left: 10px;
+  }
+  .flex{
+    display: flex;
+  }

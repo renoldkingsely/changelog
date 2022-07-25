@@ -1,0 +1,303 @@
+{
+    "id": 6098324,
+    "name": "Veranda Race",
+    "mediaCount": 16,
+    "created": "2021-08-05T11:05:14+00:00",
+    "updated": "2022-07-21T07:46:32+00:00",
+    "hashedId": "fptv9wq6tc",
+    "anonymousCanUpload": false,
+    "anonymousCanDownload": false,
+    "public": true,
+    "publicId": "fptv9wq6tc",
+    "description": "\n",
+    "medias": [
+        {
+            "id": 76877405,
+            "name": "TP-CL-01-LU-01-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:15:51+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 955.44,
+            "hashed_id": "yy50belaz2",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/2da89c82f7be2cae719aec01e873de76e43a72e5.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76876976,
+            "name": "TP-CL-01-LU-02-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:01:35+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 641.52,
+            "hashed_id": "huyo3ikum2",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/23d5ab3364056ed88b7ce05c338980f3a4df7769.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76877899,
+            "name": "T-TNC-01-LU-02-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:31:38+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 851.64,
+            "hashed_id": "nnc3yur6fz",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/08525f1c0de509b079c31dd3ccaba3948c05ce79.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76878098,
+            "name": "T-TNC-01-LU-03-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:38:53+00:00",
+            "updated": "2021-08-05T12:57:37+00:00",
+            "duration": 925.36,
+            "hashed_id": "z0zn6q8xm3",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/24d958feaa87628f4feb5178c1f65669487c6419.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76878292,
+            "name": "T-TNC-01-LU-04-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:44:26+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 689.12,
+            "hashed_id": "xf2chv3cor",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/14161b5c12a36b44003a2180638de1025d761b73.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76878657,
+            "name": "T-TNC-01-LU-01-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:53:45+00:00",
+            "updated": "2021-08-05T13:21:12+00:00",
+            "duration": 1177.56,
+            "hashed_id": "il5wu3lvax",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/3855f0a65e9b7d2271377e1e00e441427d58c5df.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76877148,
+            "name": "TP-CL-01-LU-03-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T12:08:15+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 813.88,
+            "hashed_id": "ahsy7esi93",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/903d3394cee00505220b4e70304844f2c80abed3.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76875574,
+            "name": "TP-CL-01-LU-04-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T11:10:26+00:00",
+            "updated": "2021-08-05T12:53:46+00:00",
+            "duration": 540.16,
+            "hashed_id": "jni9mtjo6y",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/223d8cf8d7785747a10fc4c8f4e0fb4d37160726.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 1"
+        },
+        {
+            "id": 76888386,
+            "name": "TB-LS-01-LU-01-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T16:01:42+00:00",
+            "updated": "2021-08-05T16:20:31+00:00",
+            "duration": 664.6,
+            "hashed_id": "nfltfsnpl6",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/e5fe0db13c257bf68b2c7d7a25676a612373da94.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 2"
+        },
+        {
+            "id": 76889231,
+            "name": "TPY-NG-LU-01-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T16:20:30+00:00",
+            "updated": "2021-08-05T16:37:07+00:00",
+            "duration": 1297.64,
+            "hashed_id": "0f95obcdvy",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/9118eefb0d470f4f3641f988b54fd8e5511ec28d.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 2"
+        },
+        {
+            "id": 76887828,
+            "name": "T-TNC-01-LU-02-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T15:49:42+00:00",
+            "updated": "2021-08-05T16:02:41+00:00",
+            "duration": 851.64,
+            "hashed_id": "ryjyzsdyiu",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/a83fcc226782c8f985319c16f49d8b9cae99f90a.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 3"
+        },
+        {
+            "id": 76888140,
+            "name": "T-TNC-02-LU-01-VD_VT",
+            "type": "Video",
+            "created": "2021-08-05T15:55:28+00:00",
+            "updated": "2021-08-05T16:03:12+00:00",
+            "duration": 809.92,
+            "hashed_id": "l99phy8916",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/9c634aecddadb6790edff437a16044e0d05f6d4d.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 3"
+        },
+        {
+            "id": 76890179,
+            "name": "TPY-EM-LU-01-VD",
+            "type": "Video",
+            "created": "2021-08-05T16:44:13+00:00",
+            "updated": "2021-08-05T17:24:18+00:00",
+            "duration": 1223.52,
+            "hashed_id": "fufi4z4hwr",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/a022938dfb9b46aad6d7457744cf5eaf53a417b2.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 4"
+        },
+        {
+            "id": 76890266,
+            "name": "TP-CL-02-LU-01-VD",
+            "type": "Video",
+            "created": "2021-08-05T16:46:38+00:00",
+            "updated": "2021-08-05T16:55:28+00:00",
+            "duration": 517.08,
+            "hashed_id": "gvut4hzzr0",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/ffc98ec7f055d988f43f121a0e56f58d623fe355.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 4"
+        },
+        {
+            "id": 76892064,
+            "name": "TB-LO-01-LU-01 VD-VT",
+            "type": "Video",
+            "created": "2021-08-05T17:22:01+00:00",
+            "updated": "2021-08-05T17:35:28+00:00",
+            "duration": 1132.32,
+            "hashed_id": "1c2tjp0dun",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/ab31ca7d0ca674d20cfe12078b0ca41bebe54ca2.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 5"
+        },
+        {
+            "id": 76892405,
+            "name": "TC-ABS-LU-01-VD",
+            "type": "Video",
+            "created": "2021-08-05T17:29:42+00:00",
+            "updated": "2021-08-05T17:40:17+00:00",
+            "duration": 951.6,
+            "hashed_id": "tg5j0a1ww6",
+            "description": "",
+            "progress": 1.0,
+            "status": "ready",
+            "thumbnail": {
+                "url": "https://embed-ssl.wistia.com/deliveries/bce8e07dae5ec6ba1c035e6dad065795916be100.jpg?image_crop_resized=200x120",
+                "width": 200,
+                "height": 120
+            },
+            "section": "Day 5"
+        }
+    ]
+}

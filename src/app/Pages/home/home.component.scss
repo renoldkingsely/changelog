@@ -1,0 +1,39 @@
+.logo{
+    padding: 15px;
+   
+    height: auto;
+    padding-left: 4px;
+}
+.header{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-link{
+    display: flex;
+}
+.links{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 400;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #0a2540;
+    color: white;
+    white-space: nowrap;
+    transition-property: background-color,opacity;
+    display: inline-block;
+    border-radius: 16.5px;
+}
+
+.p15{
+    padding: 15px;
+
+}
